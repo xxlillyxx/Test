@@ -1,0 +1,22 @@
+合併分支：
+    1. 先切到1610 
+    2. 如果你本機沒有1610Sw1050426001分支就要建立
+    3. 切回1610
+    4. merge 1610Sw1050426001
+
+EFormFlow：
+    1. 先切到目前最新版本
+    2. 下指令(git checkout -b 新的版號) 
+    3. 修改以下檔案的版號
+        a.Ehrs/Web/Version.xml
+        b.Ehrs/Web/web.config
+        c.Ehrs/webconfig/web.config
+        d.Ehrs.webconfig/windows/web.config
+        e.Winton.EFormFlow.Web/Web.config
+        f.Winton.Enhr.Web/Web.config
+    4. Commit並推送
+
+WintonCore：
+    1. 先切到目前最新版號
+    2. 下指令 (git checkout -b 新的版號)
+    3. 推送到遠端 (git push --set-upstream origin 新的版號)
