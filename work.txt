@@ -1,5 +1,7 @@
-安卓app react native開發筆記
+﻿安卓app react native開發筆記
 D:\project\ReactNative\AwesomeProject
 →開啟一個CMD視窗執行react-native start
 →另開一個cmd視窗執行react native 專案
 react-native run-android
+
+2016/11/23 cj2 修改完成
