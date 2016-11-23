@@ -1,6 +1,10 @@
-So sad that i have to do all this in my life
-wedding is totally annoying me!
+﻿安卓app react native開發筆記
+D:\project\ReactNative\AwesomeProject
+→開啟一個CMD視窗執行react-native start
+→另開一個cmd視窗執行react native 專案
+react-native run-android
 
+<<<<<<< HEAD
 I wanna be a human who can actually understand dogs~
 
 my sister has many problems in her relationship 
@@ -9,3 +13,6 @@ I don't need to do these thing atleast right now
 
 baby pomelo, I'm comeing back !
 
+=======
+2016/11/23 cj2 修改完成
+>>>>>>> master
