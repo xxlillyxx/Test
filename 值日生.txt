@@ -20,3 +20,5 @@ WintonCore：
     1. 先切到目前最新版號
     2. 下指令 (git checkout -b 新的版號)
     3. 推送到遠端 (git push --set-upstream origin 新的版號)
+
+建立新方法
